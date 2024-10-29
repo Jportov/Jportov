@@ -11,7 +11,7 @@
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jportov&repo=efood.github.io&theme=dark)](https://github.com/Jportov/efood)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jportov&repo=efood.github.io&theme=dark)](https://github.com/Jportov/efood/)
 
 
 ### Linguagens utilizadas
