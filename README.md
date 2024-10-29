@@ -1,27 +1,31 @@
 ## Olá 👋
 
+###### Sobre o João
+Desenvolvedor com 1 ano de experiência em projetos para web, mobile e automações. Experiência em front-end e back-end, usando tecnologias modernas para criar soluções robustas e escaláveis.
 
-###### Sobre o Pedro
-1 ano de experiência no desenvolvimento de projetos com o uso de diversas tecnologias, para desenvolvimento mobile, web, automações e outros.
+---
 
+### 📊 Detalhes
 
-### Detalhes
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jportov&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/Jportov)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jportov&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jportov&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-### Projetos
+---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jportov&repo=efood&theme=dark)](https://github.com/Jportov/efood)
+### 🚀 Projetos em Destaque
 
+[![efood](https://github-readme-stats.vercel.app/api/pin/?username=Jportov&repo=efood&theme=dark)](https://github.com/Jportov/efood)
 
-### Linguagens utilizadas
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jportov&layout=compact&theme=dark)
+### 🔥 Linguagens Utilizadas
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jportov&layout=compact&theme=dark&langs_count=8)
 
+---
 
+### 📫 Contato
 
-### Contatos
-
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/vportodev/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vportodev/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovportog@gmail.com)
