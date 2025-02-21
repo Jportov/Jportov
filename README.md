@@ -11,7 +11,7 @@
 ### 📌 **Projetos em Destaque**  
 - 🎬 [Clone Disney+](https://clone-disneyplus-ten-lemon.vercel.app/) – Interface inspirada no Disney+ usando React  
 - 🍔 [E-food](https://efood-fet2.vercel.app/) – Plataforma de pedidos de comida com React  
-- ✅ [To-Do List](https://todo-list-steel-beta.vercel.app/) – Gerenciador de tarefas em Vue.js  
+- ✅ [To-Do List](https://vercel.com/jportovs-projects/to-do-list) – Gerenciador de tarefas desenvolvido em React  
 - 🎮 [GameTurf](https://vercel.com/jportovs-projects/ebac-games-redux-5nw3) – Aplicação de gerenciamento de jogos com Redux  
 
 ### 📫 **Entre em contato!**  
