@@ -16,7 +16,7 @@
 🎬 [Clone Disney+](https://clone-disneyplus-ten-lemon.vercel.app/)  
 🍔 [E-food](https://efood-fet2.vercel.app/)  
 ✅ [To-Do List](https://vercel.com/jportovs-projects/to-do-list)  
-🎮 [GameTurf](https://vercel.com/jportovs-projects/ebac-games-redux-5nw3)  
+🎮 [GameTurf]([https://vercel.com/jportovs-projects/ebac-games-redux-5nw3](https://game-turf.vercel.app/))  
 
 📊 **Estatísticas do GitHub:**  
 ![Estatísticas](https://github-readme-stats.vercel.app/api?username=Jportov&show_icons=true&theme=radical)  
