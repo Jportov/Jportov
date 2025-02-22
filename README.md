@@ -15,7 +15,7 @@
 📌 **Projetos em Destaque:**  
 🎬 [Clone Disney+](https://clone-disneyplus-ten-lemon.vercel.app/)  
 🍔 [E-food](https://efood-fet2.vercel.app/)  
-✅ [To-Do List](https://vercel.com/jportovs-projects/to-do-list)  
+✅ [To-Do List](https://to-do-list-jet-eight-97.vercel.app/)  
 🎮 [GameTurf](https://game-turf.vercel.app/)  
 
 📊 **Estatísticas do GitHub:**  
