@@ -1,57 +1,42 @@
 # João Victor Porto
 
-**Desenvolvedor Full Stack** | React · Django · Spring Boot · Next.js
+**Frontend Developer** | React · Next.js · TypeScript
 
-Construindo soluções escaláveis, seguras e inovadoras — do backend ao pixel final.
+I build web applications from UI to deploy, with automated tests and CI. Based in Brazil (UTC-3), open to remote work with US and European teams.
 
 ---
 
-### Sobre mim
+### About
 
-- 🎓 Engenharia de Software — Anhanguera (em andamento)
-- 📚 Full Stack Java — EBAC
-- 📍 Rio das Ostras/RJ — Disponível para realocação
-- 🌐 Inglês intermediário
+- B.Sc. in Software Engineering, Anhanguera (2025 - 2029, in progress)
+- Full Stack Java Developer Program, EBAC (completed Oct 2024)
+- English: intermediate
 
 ---
 
 ### Tech Stack
 
-**Frontend:** React · Next.js · Vue.js · TypeScript · Tailwind CSS · Sass · Bootstrap
+**Frontend:** React · Next.js · TypeScript · JavaScript · Redux Toolkit · React Query · Material-UI · Tailwind CSS · Styled Components
 
-**Backend:** Java · Spring Boot · Python · Django · Node.js · APIs REST · JWT
+**Testing & Quality:** Vitest · Jest · React Testing Library · Storybook · ESLint · Prettier
 
-**Banco de Dados:** PostgreSQL · MySQL
+**Backend:** Node.js · Python · Django · Django REST Framework · Java · Spring Boot · REST APIs · JWT · Supabase · PostgreSQL
 
-**DevOps & Tools:** Git · Docker · AWS · Jest · Cypress
-
----
-
-### Projetos em Destaque
-
-| Projeto | Descrição | Tech |
-|---------|-----------|------|
-| [🎬 Clone Disney+](https://clone-disneyplus-ten-lemon.vercel.app/) | Clone da interface da Disney+ | React, CSS |
-| [🍔 E-food](https://efood-fet2.vercel.app/) | Plataforma de entregas | React, API REST |
-| [🎮 GameTurf](https://game-turf.vercel.app/) | App de gerenciamento de jogos | React, Redux |
-| [✅ To-Do List](https://to-do-list-jet-eight-97.vercel.app/) | Gerenciador de tarefas | React |
+**Tools:** Git · GitHub Actions (CI/CD) · Vercel · Figma
 
 ---
 
-### GitHub Stats
+### Featured Projects
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jportov&show_icons=true&theme=github_dark&hide_border=true&bg_color=09090b&title_color=34d399&icon_color=34d399&text_color=a1a1aa)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jportov&layout=compact&theme=github_dark&hide_border=true&bg_color=09090b&title_color=34d399&text_color=a1a1aa)
-
-</div>
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [User Management Dashboard](https://test-react-five-lake.vercel.app) | CRUD dashboard built in 24h for a React technical assessment, with tests, CI and Storybook | React, TypeScript, Redux Toolkit, React Query, MUI |
+| [GameTracker](https://gametracker-livid.vercel.app) | Game tracking app with OAuth login and RAWG API integration | Next.js, TypeScript, Supabase |
+| [Flix API](https://github.com/Jportov/flix_api) | REST API for movies and actors with JWT auth and OpenAPI docs | Python, Django REST Framework |
+| [Portfolio](https://portfolio-six-beige-72.vercel.app) | Personal portfolio site | Next.js, Tailwind CSS |
 
 ---
 
-### Vamos conversar?
+### Contact
 
-[![Portfolio](https://img.shields.io/badge/Portfólio-09090b?style=for-the-badge&logo=vercel&logoColor=34d399)](https://portfolio-six-beige-72.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-09090b?style=for-the-badge&logo=linkedin&logoColor=34d399)](https://www.linkedin.com/in/vportodev/)
-[![Email](https://img.shields.io/badge/Email-09090b?style=for-the-badge&logo=gmail&logoColor=34d399)](mailto:victorportodev@gmail.com)
+[Portfolio](https://portfolio-six-beige-72.vercel.app) · [LinkedIn](https://www.linkedin.com/in/vportodev/) · [Email](mailto:victorportodev@gmail.com)
