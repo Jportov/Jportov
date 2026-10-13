@@ -39,12 +39,6 @@ I build complete web applications, from the database and REST API to the UI and 
 | [Flix API](https://github.com/Jportov/flix_api) | REST API for movies and actors with JWT auth and OpenAPI docs, consumed by a Streamlit app | Python, Django REST Framework |
 | [Portfolio](https://portfolio-six-beige-72.vercel.app) | Bilingual personal portfolio | Next.js, Tailwind CSS |
 
----------|-------------|-------|
-| [User Management Dashboard](https://test-react-five-lake.vercel.app) | CRUD dashboard built in 24h for a React technical assessment, with tests, CI and Storybook | React, TypeScript, Redux Toolkit, React Query, MUI |
-| [GameTracker](https://gametracker-livid.vercel.app) | Game tracking app with OAuth login and RAWG API integration | Next.js, TypeScript, Supabase |
-| [Flix API](https://github.com/Jportov/flix_api) | REST API for movies and actors with JWT auth and OpenAPI docs | Python, Django REST Framework |
-| [Portfolio](https://portfolio-six-beige-72.vercel.app) | Personal portfolio site | Next.js, Tailwind CSS |
-
 ---
 
 ### Contact
